@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eduardo Marcelo
 
-### ☕ Backend Java Developer | Spring Boot | REST APIs | SQL
+### ☕ Python Developer | Java | Javascript | React | NodeJs | Django |  Spring Boot, REST APIs & SQL | Production Systems for Real-World Clients
 
 <p align="left">
   <a href="https://github.com/Mborges1702">
